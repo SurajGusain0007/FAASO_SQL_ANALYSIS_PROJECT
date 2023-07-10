@@ -1,0 +1,9 @@
+customer_id,roll_id,roll_name,count(r.roll_id)
+102,2,"Veg roll",1
+103,2,"Veg roll",1
+101,2,"Veg roll",1
+105,2,"Veg roll",1
+101,1,"Non Veg roll",2
+102,1,"Non Veg roll",2
+103,1,"Non Veg roll",3
+104,1,"Non Veg roll",3
