@@ -10,7 +10,9 @@ Faasos experienced significant growth and secured funding from various investors
 
 Today, Rebel Foods operates several brands, including Faasos, Behrouz Biryani, Oven Story, and Mandarin Oak, among others. These brands cater to different culinary preferences, offering a diverse range of cuisines and food options to customers. Rebel Foods has revolutionized the food delivery industry in India by leveraging technology, innovation, and a vast network of cloud kitchens, providing a seamless and enjoyable dining experience for its customers.
 
+In this Fassos Analysis Project I have solved Business Problems --
+
 ** ROLL_METRICS **
 
-1.HOW MANY ROLLS WERE ORDERED?
-2.HOW MANY UNIQUE CUSTOMER ORDERS WERE MADE?
+1. HOW MANY ROLLS WERE ORDERED?
+2. HOW MANY UNIQUE CUSTOMER ORDERS WERE MADE?
